@@ -28,5 +28,9 @@ Thumbs.db
 # Logs
 logs/
 
+# Docker
+docker
+*.log
+
 # Claude Code
 .claude/
